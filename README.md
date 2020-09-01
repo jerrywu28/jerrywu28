@@ -6,7 +6,7 @@ I'm Jerry - a software engineer skilled with using JavaScript with frameworks li
 
 I find that having held multiple positions helps me, as a developer, to understand the big picture while working on projects and not only contribute directly with work produced, but also indirectly with guidance and direction. In my past life, I was a hotel manager at a 1,282 room luxury property in Las Vegas. When I am not programming, I enjoy riding motorcycles, traveling, camping, lifting, cooking, and playing video games with friends.
 
-Please feel free to reach out to me any time. I'd love the opportunity to discuss anything related to technology or even our shared interests. 
+Please feel free to reach out to me any time. I'd love to discuss anything related to technology, mutual interests, and opportunities!
 </h4>
 </div>
 

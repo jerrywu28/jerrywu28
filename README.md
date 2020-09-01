@@ -1,7 +1,6 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
 
 ### Hello! 👋 
 
@@ -21,15 +20,5 @@ I find that having held multiple positions helps me, as a developer, to understa
 Please feel free to reach out to me any time. I'd love the opportunity to discuss anything related to technology or even our shared interests. 
 </h4>
 </div>
-
-<div><p>My profile overview: </p></div>
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=jerrywu28&show_icons=true)
-<br />
-<br />
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jerrywu28.jerrywu28)

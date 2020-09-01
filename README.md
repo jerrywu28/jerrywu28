@@ -15,10 +15,6 @@ Please feel free to reach out to me any time. I'd love the opportunity to discus
 </div>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jerrywu28.jerrywu28)
- 
-<br />
-<br />
- 
  <a href="https://www.linkedin.com/in/jerrywuse/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
